@@ -12,3 +12,4 @@ A CV starter setup, built using HTML and Tailwind CSS and using Puppeteer to gen
 |---|---|
 |`npm run serve` to serve the page and assets.|`npm run pdf` to build the PDF.|
 
+You should see `cv.pdf` in the root of the project.
