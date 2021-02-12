@@ -1,4 +1,4 @@
-# CV
+# CV Starter with Tailwind CSS
 
 A CV starter setup, built using HTML and Tailwind CSS and using Puppeteer to generate the PDF.
 
