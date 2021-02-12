@@ -1,0 +1,17 @@
+{
+  "name": "cv-starter-tailwind",
+  "version": "1.0.0",
+  "description": "A CV build HTML and Tailwind CSS and using Puppeteer to generate the PDF file.",
+  "main": "index.js",
+  "scripts": {
+    "serve": "npx http-serve",
+    "pdf": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ryanmaffey",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.12.3",
+    "puppeteer": "^2.0.0"
+  }
+}
