@@ -1,9 +1,5 @@
   
-const fs = require('fs')
-const path = require('path')
-const utils = require('util')
 const puppeteer = require('puppeteer')
-const readFile = utils.promisify(fs.readFile)
 
 const fn = async () => {
 	const browser = await puppeteer.launch();
